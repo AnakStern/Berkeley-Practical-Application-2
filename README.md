@@ -1,4 +1,4 @@
-# Berkeley-Practical-Application-2
+# Berkeley ML-AI Course Practical Application 2 Assignment
 
 ## This describes the analysis conducted on the available data and conclusions about the 
 ## factors that have the most influence on the price of a used car.
@@ -31,19 +31,30 @@
 ### 2. The strongest influences on vehicle price were the year of the vehicle's manufacture, the odometer reading,
 ### whether the vehicle was a truck, whether the vehicle was 4-wheel drive, and whether the vehicle was from a 
 ### Korean manufacturer.  More specifically:
-#### Year -- for vehicles from 2010 and earlier, differences in the year had little impact on the price.  
+#### Year -- For vehicles from 2010 and earlier, differences in the year had little impact on the price.  
 #### However, the rate at which prices increased for vehicles newer than 2010 grew for new model years (see figure).
-#### Odometer -- the higher the odometer reading, the more likely the vehicle's value will be lower.
-#### Trucks -- trucks generally commanded higher prices than other vehicles
 
 <img width="640" height="480" alt="price_by_year_nonlinear_fit" src="https://github.com/user-attachments/assets/ff789c70-75bb-4011-8ee3-cac3e70b9d44" />
 
+#### Odometer -- The higher the odometer reading, the more likely the vehicle's value will be lower.
+#### Trucks -- Trucks generally commanded higher prices than other vehicles.  It is worth noting that vehicles using  
+#### diesel fuel tended to command higher prices but this is probably because trucks are more likely to use diesel.
+#### 4-wheel drive -- 4-wheel drive vehicles commanded higher prices relative to vehicles with front-wheel or
+#### rear-wheel drive.  It is worth noting that the data show rear-wheel drive is associated much more with older
+#### vehicles which contributes to the lower prices associated with rear-wheel drive vehicles.
+#### In addition, the vast majority of sedans have front-wheel drive which tend to 
+#### increase the price of sedans though not by a significant amount.
+#### Korea -- Korean vehicles had notably lower prices than vehicles from non-Korean 
+#### manufacturers.  This may be related to the age of Korean vehicles (average year is 2013).
+### 3. To give an idea of how some of the key factors noted above influence the price
+### of a car, here are price predictions based on the analysis:
+#### Year 2008, no 4-wheel drive, not a truck, 70,000 miles $11,368
+#### Year 2020, no 4-wheel drive, not a truck, 70,000 miles $36,962
+#### Year 2016, 4-wheel drive, truck, 30,000 miles $23,506
+#### Year 2018, 4-wheel drive, not a truck, 40,000 miles $29,502
 
-
-## C. Analysis of acceptance of coupons for more expensive restaurants
-### Approximately 45% of drivers who received a coupon for an expensive accepted the coupon
-### Overall, none of the factors analyzed had a significant impact on acceptance of a coupon for an expensive restaurant.
-### These factors included time coupon received, driver havng a passenger, driver having children, and driver with no urgent destination.
-### Drivers with high income ($75,000 or more) were only slighly more likely to accept a coupon for an expensive restaurant.
-### This was not an exhaustive analysis.
-### Other factors not analyzed or not in the available dataset may more clearly influence acceptance of a coupon for an expensive restaurant.
+## C. Overall Conclusions
+### Year of manufacture has the greatest influence on vehicle price, with
+### particularly strong positive influence for the most recent years.
+### Other factors such as whether the vehicle is a truck and the odometer reading
+### are important though less so than year.
