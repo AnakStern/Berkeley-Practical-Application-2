@@ -22,13 +22,16 @@
 #### 3. Information about vehicle models was highly challenging to take into account due to inconsistencies.
 #### The time alloted for this project did not allow model to be used.  Manufacturer information is available.
 
-## B. Analysis of acceptance of bar coupons
-### Approximately 41% of drivers who received a coupon for a bar accepted the coupon
-### Overall, drivers who went to a bar more often were significantly more likely to accept a bar coupon.
-### About 76% of drivers who went to a bar four or more times per month accepted the bar coupon.
-### The influence of age on bar coupon acceptance was unclear and would need further analysis.
-### The probability of accepting a bar coupon seems to be higher for drivers who had a passenger that was not a child ("kid").
-### The analysis suggests that those who work in farming, fishing or forestry would be more likely to accept a bar coupon (all other things equal).
+## B. Findings
+### 1. Some factors for which data are available did not show any substantive influence on vehicle price.
+### This included the i) state from which the vehicle came, even after looking at cars from the 20 coldest states 
+### vs. other states; ii) the color of the car's paint; iii) whether the transmission was manual or automatic; and
+### iv) the number of cylinders (though there were some small indications that 6-cylinder vehicles tend to command
+### a higher price).
+### 2. The strongest influences on vehicle price were the year of the vehicle's manufacture, the odometer reading,
+### whether the vehicle was a truck, whether the vehicle was 4-wheel drive, and whether the vehicle was from a 
+### Korean manufacturer.  More specifically:
+#### Year -- the more recent the year of manufacture, the 
 
 ## C. Analysis of acceptance of coupons for more expensive restaurants
 ### Approximately 45% of drivers who received a coupon for an expensive accepted the coupon
