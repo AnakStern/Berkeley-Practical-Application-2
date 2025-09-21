@@ -32,8 +32,9 @@
 ### whether the vehicle was a truck, whether the vehicle was 4-wheel drive, and whether the vehicle was from a 
 ### Korean manufacturer.  More specifically:
 #### Year -- for vehicles from 2010 and earlier, differences in the year had little impact on the price.  
-#### However, the rate at which prices increased for vehicles newer than 2010 grew for new model years.
-
+#### However, the rate at which prices increased for vehicles newer than 2010 grew for new model years (see figure).
+#### Odometer -- the higher the odometer reading, the more likely the vehicle's value will be lower.
+#### Trucks -- trucks generally commanded higher prices than other vehicles
 
 <img width="640" height="480" alt="price_by_year_nonlinear_fit" src="https://github.com/user-attachments/assets/ff789c70-75bb-4011-8ee3-cac3e70b9d44" />
 
