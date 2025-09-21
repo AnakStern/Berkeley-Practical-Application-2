@@ -12,7 +12,11 @@
 ### The adjustments assume the client is operating a typical used car dealership which sells cars and
 ### non-commercial trucks.
 ### The primary adjustments were:
-#### 1. Dropped parts of the dataset with significant missing information or 
+#### 1. Dropped parts of the dataset with significant missing information or data that was not useful
+#### or lacked clarity (e.g., references to the vehicle fuel as "other")
+#### 2. Some types of information were not useful for this project.  These include: i) the VIN which has no
+#### apparent relationship to the vehicle price; ii) very high-mileage vehicles (odometer reading greater than
+#### 150,000 miles); iii) 
 
 ## B. Analysis of acceptance of bar coupons
 ### Approximately 41% of drivers who received a coupon for a bar accepted the coupon
