@@ -31,7 +31,8 @@
 ### 2. The strongest influences on vehicle price were the year of the vehicle's manufacture, the odometer reading,
 ### whether the vehicle was a truck, whether the vehicle was 4-wheel drive, and whether the vehicle was from a 
 ### Korean manufacturer.  More specifically:
-#### Year -- the more recent the year of manufacture, the 
+#### Year -- for vehicles from 2010 and earlier, differences in the year had little impact on the price.  
+#### However, the rate at which prices increased for vehicles newer than 2010 grew for new model years.
 
 ## C. Analysis of acceptance of coupons for more expensive restaurants
 ### Approximately 45% of drivers who received a coupon for an expensive accepted the coupon
