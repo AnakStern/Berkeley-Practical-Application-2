@@ -34,6 +34,11 @@
 #### Year -- for vehicles from 2010 and earlier, differences in the year had little impact on the price.  
 #### However, the rate at which prices increased for vehicles newer than 2010 grew for new model years.
 
+
+<img width="640" height="480" alt="price_by_year_nonlinear_fit" src="https://github.com/user-attachments/assets/ff789c70-75bb-4011-8ee3-cac3e70b9d44" />
+
+
+
 ## C. Analysis of acceptance of coupons for more expensive restaurants
 ### Approximately 45% of drivers who received a coupon for an expensive accepted the coupon
 ### Overall, none of the factors analyzed had a significant impact on acceptance of a coupon for an expensive restaurant.
