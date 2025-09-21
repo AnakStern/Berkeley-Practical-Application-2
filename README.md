@@ -12,10 +12,7 @@
 ### The adjustments assume the client is operating a typical used car dealership which sells cars and
 ### non-commercial trucks.
 ### The primary adjustments were:
-#### 1. Dropped parts of the dataset with significant missing information or
-### 3. Renamed the misspelled "passanger" column to "passenger"
-### 4. (later in the analysis) Created new column to make "temperature" into a datatype integer
-### 5. (later in the analysis) Created new columns to categorize "income" with dichotomous values "lower income" and "high income"
+#### 1. Dropped parts of the dataset with significant missing information or 
 
 ## B. Analysis of acceptance of bar coupons
 ### Approximately 41% of drivers who received a coupon for a bar accepted the coupon
