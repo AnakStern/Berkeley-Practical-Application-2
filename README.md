@@ -16,7 +16,11 @@
 #### or lacked clarity (e.g., references to the vehicle fuel as "other")
 #### 2. Some types of information were not useful for this project.  These include: i) the VIN which has no
 #### apparent relationship to the vehicle price; ii) very high-mileage vehicles (odometer reading greater than
-#### 150,000 miles); iii) 
+#### 150,000 miles); iii) vehicles that would presumably not be sold by the client (buses and motorcycles); and
+#### iv) information about the vehicle title status (assuming that buyer interest in vehicles without a clean
+#### title would be very low).
+#### 3. Information about vehicle models was highly challenging to take into account due to inconsistencies.
+#### The time alloted for this project did not allow model to be used.  Manufacturer information is available.
 
 ## B. Analysis of acceptance of bar coupons
 ### Approximately 41% of drivers who received a coupon for a bar accepted the coupon
